@@ -52,3 +52,6 @@ The main objective of this project is to analyze employee attrition patterns and
 - Pivot Table Analysis
 - Business Problem Solving
 - HR Analytics
+## 📊 Dashboard
+
+![HR Attrition Dashboard](Excel%20Dashboard.png)
